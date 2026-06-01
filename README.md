@@ -1,7 +1,6 @@
 # Xin chào, tôi là Bảo 👋
 
 ## 🙋 Về tôi
-- 📊 Data Analyst đam mê biến dữ liệu thành insight có giá trị
 - 🛠️ Thành thạo: Python | SQL | Power BI | Excel
 - 📍 TP. Hồ Chí Minh, Việt Nam
 - 📧 Email: Baodoan0711@email.com
