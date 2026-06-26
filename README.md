@@ -3,7 +3,7 @@
 ## 🙋 Về tôi
 - 🛠️ Thành thạo: Python | SQL | Power BI | Excel
 - 📍 TP. Hồ Chí Minh, Việt Nam
-- 📧 Email: Baodoan0711@email.com
+- 📧 Email: Baodoan0711@gmail.com
 
 ---
 
@@ -11,8 +11,8 @@
 
 | Project | Mô tả | Tools | Link |
 |---|---|---|---|
-| Credit Risk Analysis | Phân tích 32K hồ sơ vay, xác định rủi ro vỡ nợ | Python, SQL, Tableau | [Xem →](#) |
-| Procurement Analysis | Phân tích chi tiêu mua sắm $908M | SQL, Tableau | [Xem →](#) |
+| ... | ... | Python, SQL, Tableau | [Xem →](#) |
+| ... | ... | SQL, Tableau | [Xem →](#) |
 
 ---
 
